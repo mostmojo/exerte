@@ -26,7 +26,7 @@
         rgba($color-primary-light, 0.8),
         rgba($color-primary-dark, 0.8)
       ),
-      url("../img/hero.jpeg");
+      url("../img/hero.jpg");
   }
 
   @include respond(phone) {

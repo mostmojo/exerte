@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mostmojo/Ostro.git"
+    "url": "git+https://github.com/mostmojo/exerte.git"
   },
   "author": "Jacob",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mostmojo/Natours/issues"
   },
-  "homepage": "https://github.com/mostmojo/Natours#readme",
+  "homepage": "https://github.com/mostmojo/exerte",
   "devDependencies": {
     "autoprefixer": "^9.5.1",
     "concat": "^1.0.3",
