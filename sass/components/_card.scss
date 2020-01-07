@@ -225,3 +225,12 @@
     }
   }
 }
+
+.card-link {
+	// text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	&:hover {
+		text-decoration: none;
+	}
+}

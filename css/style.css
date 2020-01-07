@@ -370,6 +370,12 @@ body {
       .card__price-value {
         font-size: 4rem; } }
 
+.card-link {
+  color: #000000;
+  font-weight: bold; }
+  .card-link:hover {
+    text-decoration: none; }
+
 .composition {
   position: relative; }
   .composition__photo {
